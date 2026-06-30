@@ -170,8 +170,7 @@ Computer Science Student | Machine Learning & Deep Learning Enthusiast
 
 Currently documenting my complete Deep Learning learning journey through practical implementations using PyTorch.
 
-- 🌟 GitHub: *Add your GitHub Profile Link*
-- 💼 LinkedIn: *Add your LinkedIn Profile Link*
+- 💼 LinkedIn: https://www.linkedin.com/in/parmeet-singh-9414a8349/
 
 ---
 
